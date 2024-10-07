@@ -22,4 +22,4 @@ if result!=-1:
     print(f"element found at index{result}")
 
 else:
-    print("element not found")
+    print("element not found in the array")
